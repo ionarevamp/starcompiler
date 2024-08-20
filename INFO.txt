@@ -1,0 +1,3 @@
+Note: Rust project.
+A lot of implementations need to be written manually if using no_std, but this might not actually be necessary.
+The main goal to convert syntax into assembly.
